@@ -75,6 +75,6 @@
 <h2>Contact</h2>
 <p>If you have any questions or suggestions, feel free to reach out:</p>
 <ul>
-    <li><b>Email:</b> <a lxgtx1080@gmail.com</li>
+    <li><b>Email:</b> <a href="lxgtx1080@gmail.com">lxgtx1080@gmail.com</a></li>
     <li><b>GitHub:</b> <a href="https://github.com/makarandjadhav1" target="_blank">makarandjadhav1</a></li>
 </ul>
