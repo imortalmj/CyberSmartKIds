@@ -36,11 +36,8 @@
     <li>Navigate to the project directory:
         <pre><code>cd PhishGuard</code></pre>
     </li>
-    <li>Install required dependencies:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-    <li>Run the application:
-        <pre><code>python app.py</code></pre>
+    <li>Run the WebPage:
+        <pre><code>index.html</code></pre>
     </li>
     <li>Open your browser and visit:
         <pre><code>http://127.0.0.1:5000</code></pre>
